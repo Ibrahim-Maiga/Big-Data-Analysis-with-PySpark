@@ -4,9 +4,13 @@
 ## Tech Stack
 
 **Databases:** Hadoop, PostgreSQL, MongoDB, MySQL, SQL Server
+
 **Processing:** PySpark, Python
+
 **Cloud Infrastructure:** Azure VM
+
 **Visualization:** Power BI
+
 **ETL:** Custom pipeline for data cleaning and consolidation
 
 ## Key Features
